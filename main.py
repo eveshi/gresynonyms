@@ -8,7 +8,7 @@ from utils import save_words
 
 def main():
     input_continue = "y"
-    while input_continue == "y":
+    while input_continue != "N":
         save_words.input_pairs()
         input_continue = input("continue input? y/N: ")
 

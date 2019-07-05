@@ -15,5 +15,703 @@
     "primitive",
     "rudimentary",
     "ancient"
+  ],
+  "粗略的，不完全的": [
+    "sketchy",
+    "rudiementary",
+    "superficial",
+    "undeveloped"
+  ],
+  "看得见的，明显的": [
+    "visible",
+    "salient"
+  ],
+  "爱说教的": [
+    "preachy",
+    "sanctimonious",
+    "didactic"
+  ],
+  "支持": [
+    "endorse",
+    "sanction",
+    "commend",
+    "support",
+    "authorize"
+  ],
+  "宗派的，派系的": [
+    "factious",
+    "schism"
+  ],
+  "反对，批评，告诫": [
+    "admonish",
+    "scold"
+  ],
+  "俘获": [
+    "capture",
+    "secure"
+  ],
+  "自恋": [
+    "narcissism",
+    "self-flattery"
+  ],
+  "衰老，老朽": [
+    "decrepitude",
+    "senescence"
+  ],
+  "连续的": [
+    "successive",
+    "sequential"
+  ],
+  "万无一失的": [
+    "unerring",
+    "settled"
+  ],
+  "阻止": [
+    "stifle",
+    "stem",
+    "check",
+    "shackle"
+  ],
+  "肤浅的，表面的": [
+    "superficial",
+    "shallow"
+  ],
+  "截断": [
+    "truncate",
+    "shorten",
+    "foreshorten"
+  ],
+  "的": [
+    "artful",
+    "shrewd"
+  ],
+  "精明的": [
+    "canny",
+    "shrewd",
+    "deft"
+  ],
+  "敏锐": [
+    "acumen",
+    "shrewdness"
+  ],
+  "发出让人不爽的噪音": [
+    "caterwaul",
+    "shriek"
+  ],
+  "畏缩，后退": [
+    "recoil",
+    "shrink"
+  ],
+  "使转向": [
+    "deflect",
+    "shrug off"
+  ],
+  "表示": [
+    "betoken signify"
+  ],
+  "纯真的，朴素的": [
+    "artless",
+    "simplistic"
+  ],
+  "冷落": [
+    "snub",
+    "slight"
+  ],
+  "贬低": [
+    "disparage",
+    "slight"
+  ],
+  "难抓住的，难理解的": [
+    "elusive",
+    "slippery",
+    "evasive",
+    "cryptic"
+  ],
+  "拖延的": [
+    "dilatory",
+    "sluggish",
+    "remiss",
+    "laggard"
+  ],
+  "诽谤": [
+    "aspersion",
+    "slur"
+  ],
+  "故障": [
+    "hitch",
+    "snag"
+  ],
+  "古板的，严肃的": [
+    "staid",
+    "sober"
+  ],
+  "爱交际的，群居的": [
+    "gregarious",
+    "sociable"
+  ],
+  "严肃的，昏暗的": [
+    "somber",
+    "solemn"
+  ],
+  "情谊，友情": [
+    "camaraderie",
+    "solidarity"
+  ],
+  "无精打采的": [
+    "lethargic",
+    "somnolent",
+    "slumberous"
+  ],
+  "使减少": [
+    "deflate",
+    "soothe"
+  ],
+  "肮脏的，邪恶的，不诚实的": [
+    "sleazy",
+    "sordid"
+  ],
+  "毋庸置疑的": [
+    "unassailble",
+    "sound"
+  ],
+  "剧烈的，引人瞩目的": [
+    "dramatic",
+    "spectacular"
+  ],
+  "推测": [
+    "conjecture",
+    "speculation"
+  ],
+  "精力充沛的": [
+    "vigorous",
+    "spirited"
+  ],
+  "凭直觉的": [
+    "intuitive",
+    "spontaneous"
+  ],
+  "分散的，传播，话多的": [
+    "diffuse",
+    "spread",
+    "disperse",
+    "wordy"
+  ],
+  "养育，促进": [
+    "foster",
+    "spur",
+    "adopt"
+  ],
+  "虚假的，人造的": [
+    "artificial",
+    "spurious"
+  ],
+  "公然藐视": [
+    "flout",
+    "spurn",
+    "defy",
+    "disregard"
+  ],
+  "遵从，与……一致": [
+    "conform to",
+    "square with"
+  ],
+  "严肃的": [
+    "sobering",
+    "staid"
+  ],
+  "陈腐的，平凡的": [
+    "banal",
+    "stale"
+  ],
+  "预先组织，提前行动": [
+    "forestall",
+    "stave off",
+    "avert",
+    "prevent"
+  ],
+  "束缚": [
+    "shackle",
+    "stifle"
+  ],
+  "吝啬的": [
+    "parsimonious",
+    "stingy",
+    "illiberal"
+  ],
+  "等级制度的": [
+    "hierachical",
+    "stratified"
+  ],
+  "大胆的": [
+    "audacious",
+    "striking"
+  ],
+  "健壮的，强有力的": [
+    "robust",
+    "strong"
+  ],
+  "妨碍": [
+    "hinder",
+    "stymie",
+    "inhibit",
+    "block"
+  ],
+  "服从": [
+    "obedience",
+    "submission"
+  ],
+  "细微差别": [
+    "nuance",
+    "subtlety"
+  ],
+  "削弱": [
+    "undercut",
+    "subvert",
+    "impair",
+    "undermine"
+  ],
+  "伟大胜利": [
+    "triumph",
+    "success"
+  ],
+  "连续的，顺序的": [
+    "sequential",
+    "successive"
+  ],
+  "产生，屈服": [
+    "yield",
+    "succumb",
+    "engender",
+    "output"
+  ],
+  "阴郁的": [
+    "surly",
+    "sullen"
+  ],
+  "过量": [
+    "plethora",
+    "surfeit",
+    "glut"
+  ],
+  "郁郁寡欢的": [
+    "sullen",
+    "surly",
+    "grumpy"
+  ],
+  "不确定的，可疑的": [
+    "dubious",
+    "suspect"
+  ],
+  "谄媚的": [
+    "obsequious",
+    "sycophantic"
+  ],
+  "比喻的，象征的": [
+    "figurative",
+    "symbolic"
+  ],
+  "等同于": [
+    "tantamount",
+    "synonymous"
+  ],
+  "融合": [
+    "fusion",
+    "synthesis"
+  ],
+  "简洁的": [
+    "laconic",
+    "taciturn",
+    "terse",
+    "curt"
+  ],
+  "不明智的": [
+    "impolitic",
+    "tactless"
+  ],
+  "同义的": [
+    "synonymous",
+    "tantamount"
+  ],
+  "枯燥乏味的": [
+    "dreary",
+    "tedious"
+  ],
+  "调节": [
+    "modulate",
+    "temper"
+  ],
+  "公正客观的，冷静客观的": [
+    "dispassionate",
+    "temperate",
+    "analytical"
+  ],
+  "解决，决定，决心": [
+    "resolve",
+    "tenacity"
+  ],
+  "稀少的": [
+    "exiguous",
+    "tenuous"
+  ],
+  "不热情的": [
+    "halfhearted",
+    "tepid",
+    "lukewarm"
+  ],
+  "周密的，一丝不苟的": [
+    "meticulous",
+    "thorough",
+    "exact",
+    "painstaking"
+  ],
+  "简朴的": [
+    "frugal",
+    "thrifty"
+  ],
+  "倾斜": [
+    "list",
+    "tilt"
+  ],
+  "适时的": [
+    "opportune",
+    "timely"
+  ],
+  "容忍": [
+    "brook",
+    "tolerate"
+  ],
+  "恢复健康的": [
+    "restorative",
+    "tonic"
+  ],
+  "象征的": [
+    "emblematic",
+    "totemic"
+  ],
+  "短暂的": [
+    "ephemeral",
+    "transitory",
+    "short-lived"
+  ],
+  "渊博的，深奥的，深刻的": [
+    "profound",
+    "trenchant"
+  ],
+  "疑虑，担忧": [
+    "misgiving",
+    "trepidation",
+    "qualm"
+  ],
+  "赞美": [
+    "encomium",
+    "tribute"
+  ],
+  "不重要的": [
+    "inconsequential",
+    "trivial",
+    "immaterial"
+  ],
+  "好斗的": [
+    "pugnacious",
+    "truculent",
+    "belligerent"
+  ],
+  "轻信的": [
+    "credulous",
+    "trusting"
+  ],
+  "新手": [
+    "novice",
+    "tyro"
+  ],
+  "ominipresent, ubiquitous, universal": [
+    ""
+  ],
+  "无处不在的": [
+    "ominipresent",
+    "ubiquitous",
+    "universal"
+  ],
+  "完全的，不受限制的，无资格的": [
+    "unqualified",
+    "unalloyed"
+  ],
+  "健康的，正确的，可靠的": [
+    "sound",
+    "unassailable",
+    "valid"
+  ],
+  "谦虚的，朴实无华的，适度的": [
+    "modest",
+    "unassuming",
+    "unostentatious"
+  ],
+  "必然的": [
+    "inevitable",
+    "unavoldable",
+    "preordained",
+    "ineluctable"
+  ],
+  "原始的，崭新的": [
+    "pristine",
+    "unblemished"
+  ],
+  "不停的": [
+    "unceasing",
+    "unremitting"
+  ],
+  "奇怪的": [
+    "quirky",
+    "unconventional"
+  ],
+  "非正统的": [
+    "unorthodox",
+    "unconventional"
+  ],
+  "无法反驳的": [
+    "irrefutable",
+    "undeniable"
+  ],
+  "无个性的": [
+    "nondescript",
+    "unexceptional"
+  ],
+  "违反直觉的": [
+    "counterintuitive",
+    "unexpected"
+  ],
+  "无知": [
+    "ignorance",
+    "unfamiliarity"
+  ],
+  "过时的": [
+    "outmoded",
+    "unfashionable",
+    "obsolete",
+    "fusty"
+  ],
+  "不知疲倦的": [
+    "unflagging",
+    "unfatigued"
+  ],
+  "不利的，逆的": [
+    "adverse",
+    "unfavorable"
+  ],
+  "无根据的": [
+    "unjustified",
+    "unwarranted",
+    "baseless",
+    "untenable",
+    "groundless",
+    "unfounded"
+  ],
+  "笨拙的，不合适的，尴尬的，棘手的": [
+    "awkward",
+    "ungainly"
+  ],
+  "无可指责的": [
+    "blameless",
+    "unimpeachable"
+  ],
+  "怀疑的": [
+    "skeptical",
+    "unimpressed"
+  ],
+  "难以理解的": [
+    "inscrutable",
+    "uninformative",
+    "impenetrable",
+    "abstruse"
+  ],
+  "单一的，非凡的，异常的": [
+    "singular",
+    "unique"
+  ],
+  "使疏远": [
+    "estrange",
+    "unlinked",
+    "disaffect"
+  ],
+  "果断的，毋庸置疑的": [
+    "decisive",
+    "unmistakable"
+  ],
+  "镇定的": [
+    "composed",
+    "unperturbed",
+    "collected",
+    "cooolheaded"
+  ],
+  "变化无常的": [
+    "impulsive",
+    "volatile",
+    "cavaller",
+    "mercurial",
+    "inconstant",
+    "unpredictable",
+    "versatile",
+    "capricious"
+  ],
+  "不可否认的": [
+    "undeniable",
+    "unquestionable",
+    "irrefutable"
+  ],
+  "不吸引人的": [
+    "unprepossessing",
+    "unremarkable"
+  ],
+  "没有限制的": [
+    "untrammeled",
+    "unrestrained"
+  ],
+  "分离的": [
+    "divorced",
+    "untethered",
+    "abstracted"
+  ],
+  "笨重的，复杂难做的": [
+    "cumbersome",
+    "unwieldy"
+  ],
+  "不情愿的": [
+    "reluctant",
+    "unwilling",
+    "loath"
+  ],
+  "无法安抚的": [
+    "implacable",
+    "unyielding",
+    "inexorable"
+  ],
+  "动乱": [
+    "convulsion",
+    "upheaval"
+  ],
+  "犹豫不决": [
+    "irresolution",
+    "vacillation"
+  ],
+  "模糊的": [
+    "nebulous",
+    "vague"
+  ],
+  "赞扬": [
+    "exalt",
+    "valorize"
+  ],
+  "乏味的，幼稚的": [
+    "jejune",
+    "vapid"
+  ],
+  "波动，摇摆不定": [
+    "fluctuate",
+    "vary",
+    "vacillate"
+  ],
+  "荣誉，尊敬": [
+    "honor",
+    "venerate"
+  ],
+  "尊敬": [
+    "reverence",
+    "veneration"
+  ],
+  "冗长的": [
+    "verbose",
+    "prolix",
+    "long-winded"
+  ],
+  "变化多端，多才多艺": [
+    "protean",
+    "versatile"
+  ],
+  "善变的": [
+    "fickle",
+    "versatile",
+    "volatile",
+    "flighty",
+    "erratic",
+    "capricious"
+  ],
+  "遗迹": [
+    "relic",
+    "vestige"
+  ],
+  "失望": [
+    "chagrin",
+    "vexation"
+  ],
+  "开脱罪行": [
+    "exculpate",
+    "vindicate"
+  ],
+  "触犯": [
+    "contravene",
+    "violate"
+  ],
+  "显著的，重要的": [
+    "salient",
+    "visible",
+    "prominent",
+    "obtrusive",
+    "conspicuous"
+  ],
+  "巨大的": [
+    "prodigious",
+    "voracious"
+  ],
+  "不满足的": [
+    "insatiable",
+    "voracious",
+    "quenchless"
+  ],
+  "衰落，拒绝": [
+    "decline",
+    "wane"
+  ],
+  "衰退": [
+    "decline",
+    "wane",
+    "ebb"
+  ],
+  "不定的，行为错误的": [
+    "errant",
+    "wayward"
+  ],
+  "大量": [
+    "profusion",
+    "wealth"
+  ],
+  "流行的，普遍的": [
+    "prevalent",
+    "widespread",
+    "extensive"
+  ],
+  "迷人的": [
+    "engaging",
+    "winning"
+  ],
+  "普遍的，日常的，常见的": [
+    "quotidian",
+    "workday"
+  ],
+  "屈服，死亡": [
+    "succumb",
+    "yield"
+  ],
+  "导致": [
+    "engender",
+    "yield",
+    "induce"
+  ],
+  "极端分子": [
+    "extremist",
+    "zealot"
+  ],
+  "狂热分子": [
+    "ideologue",
+    "zealot"
   ]
 }

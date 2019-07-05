@@ -10,9 +10,9 @@ with open(path + '/../db/explainations.json') as explainations:
 
 def input_pairs():
     explainations_input = input("the explaination is: ")
-    words_input = input("words(use space between different words): ")
+    words_input = input("words(use comma and space between words): ")
 
-    words_list = words_input.split(" ")
+    words_list = words_input.split(", ")
 
     for word in words_list:
         if (word in words_dict) and (explainations_input not in words_dict[word]):
