@@ -11,6 +11,10 @@ def print_one_word(word_index):
     print(list(explainations_dict.keys())[word_index] + ": \n" + ",".join(list(explainations_dict.values())[word_index]))
 
 def print_list(start_point):
+    if len(explainations_dict) < start_point:
+        print("You've finished. Now, we'll start again")
+        start_point = 0
+
     end_point = start_point + 10
     if end_point > len(explainations_dict):
         end_point = len(explainations_dict)
