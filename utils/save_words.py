@@ -4,7 +4,7 @@ import os
 path = os.path.dirname(os.path.realpath(__file__))
 
 with open(path + '/../db/words.json') as words:
-    words_dict = words_dict = json.load(words)
+    words_dict = json.load(words)
 with open(path + '/../db/explainations.json') as explainations:
     explainations_dict = json.load(explainations)
 

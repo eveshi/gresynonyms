@@ -12,14 +12,14 @@
 # --help
 
 
-from utils import save_words, search
+from utils import save_words, search, memorize
 
 def main():
     mode = input('Welcome to Gresynonyms, pls type your commands:\n-s: search for words or explainations\n-i: input new words pair\n')
     if mode == '-s':
         search.search()
-#     elif mode == '-q':
-
+    elif mode == '-q':
+        memorize.main()
 #     elif '--rw' in mode:
     elif mode == '-i':
         input_continue = "y"
